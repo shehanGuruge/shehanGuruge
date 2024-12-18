@@ -1,4 +1,5 @@
 ## 💫 Hi there, I'm Shehan 👋
+<img src="coder.gif" width="100%"/>
 A software engineer with primary focus to frontend.👨‍💻<br><br>📱 My primary expertise is on Mobile application development in both native and cross platform languages. <br>👨‍💻 Working as a software engineer a.k.a mobile developer since 2️⃣ 0️⃣ 2️⃣ 0️⃣<br><br>
 
 
